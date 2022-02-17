@@ -1,0 +1,14 @@
+{
+	"name": "do-functions-telegram-bot",
+	"version": "0.0.1",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+	  "test": "echo \"No test specified\" && exit 1"
+	},
+	"dependencies": {
+	  "telegraf": "^4.4.2"
+	},
+	"license": "MIT"
+  }
+  
